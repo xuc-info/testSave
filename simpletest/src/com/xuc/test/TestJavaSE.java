@@ -6,9 +6,9 @@ public class TestJavaSE {
 	@Test
 	public void test1() {
 	
-		int[] arr = { 4, 1, 6, 3, 9, 8 }; // 定义一个数组
+		int[] arr = { 4, 1, 6, 3, 9, 8 }; // 露篓脪氓脪禄赂枚脢媒脳茅
 		
-		/*for (int i = 0; i < arr.length-1; i++) {
+		for (int i = 0; i < arr.length-1; i++) {
 			for (int j = i+1; j < arr.length; j++) {
 				if (arr[i]<arr[j]) {
 					int temp=arr[i];
@@ -19,7 +19,7 @@ public class TestJavaSE {
 				}
 				
 			}
-		}*/
+		}
 		
 
 		for (int i = 0; i < arr.length-1; i++) {
