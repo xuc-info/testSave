@@ -21,6 +21,7 @@ public class TestJavaSE {
 			}
 		}*/
 		
+		System.out.println("thes zhongjian");
 
 		for (int i = 0; i < arr.length-1; i++) {
 			for (int j = 0; j < arr.length; j++) {
