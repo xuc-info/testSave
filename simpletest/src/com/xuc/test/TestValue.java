@@ -20,7 +20,6 @@ public class TestValue {
 		System.getProperty("java.class.path");
 
 		System.out.println(13&11);
-		System.out.println("niaho");
 
 	}
 }
