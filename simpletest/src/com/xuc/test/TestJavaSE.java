@@ -6,7 +6,7 @@ public class TestJavaSE {
 	@Test
 	public void test1() {
 
-		int[] arr = { 4, 1, 6, 3, 9, 8 }; // shuzu de
+		int[] arr = { 4, 1, 6, 3, 9, 8 }; 
 
 		System.out.println("thssss..........");
 
