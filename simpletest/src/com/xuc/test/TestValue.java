@@ -18,7 +18,9 @@ import java.util.TreeSet;
 public class TestValue {
 	public static void main(String[] args) {
 		System.getProperty("java.class.path");
+
 		System.out.println(13&11);
 		System.out.println("niaho");
+
 	}
 }
