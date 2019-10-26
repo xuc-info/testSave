@@ -22,5 +22,6 @@ public class TestValue {
 		System.out.println(13&11);
 		System.out.println("niaho");
 
+		System.out.println("ait your name");
 	}
 }
