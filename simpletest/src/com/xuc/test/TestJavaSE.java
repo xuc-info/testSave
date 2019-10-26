@@ -8,7 +8,8 @@ public class TestJavaSE {
 
 		int[] arr = { 4, 1, 6, 3, 9, 8 }; 
 
-		System.out.println("2th...");
+		System.out.println("3th...");
+
 
 		for (int i = 0; i < arr.length - 1; i++) {
 			for (int j = 0; j < arr.length; j++) {
